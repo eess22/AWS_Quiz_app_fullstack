@@ -1,0 +1,3 @@
+- bycrpt 암호 기능 
+- JWT 기능 구현
+- /admin 관리 기능
