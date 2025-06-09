@@ -1,0 +1,23 @@
+# macOS 관련
+.DS_Store
+
+# IntelliJ IDEA 설정 폴더
+.idea/
+*.iml
+
+# Node.js (Vue 등 frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Spring Boot (Java backend)
+backend/target/
+backend/.env
+backend/*.log
+
+# 로그 및 임시 업로드 파일
+*.log
+uploads/
+
+# 기타
+.env
